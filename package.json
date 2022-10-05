@@ -11,7 +11,7 @@
         "@mui/lab": "^5.0.0-alpha.59",
         "@mui/material": "^5.0.1",
         "@mui/styles": "^5.0.1",
-        "axios": "^0.24.0",
+        "axios": "^1.0.0",
         "formik": "^2.2.9",
         "i18next": "^21.6.5",
         "jest-esm-transformer": "^1.0.0",
